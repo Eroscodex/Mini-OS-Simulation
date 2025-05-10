@@ -1,1 +1,3 @@
 # Mini-OS-Simulation
+CREATED BY: KARL NICKO L. ALONDRA
+            JHUREN HERRERA
